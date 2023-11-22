@@ -107,16 +107,15 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   imageContainer: {
-    width: 150, // Defina o tamanho desejado para a View que contém a imagem
-    height: 150, // Defina o tamanho desejado para a View que contém a imagem
+    width: 150, 
+    height: 150, 
     justifyContent: "center",
     alignItems: "center",
     borderWidth: 1,
     borderColor: "black",
   },
   contentUserImage: {
-    width: "100%", // Isso fará com que a imagem ocupe todo o espaço disponível na View
-    height: "100%", // Isso fará com que a imagem ocupe todo o espaço disponível na View
+    width: "100%", 
   },
 });
 
